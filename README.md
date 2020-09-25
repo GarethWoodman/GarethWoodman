@@ -42,5 +42,5 @@ Ruby-On-Rails, JavaScript (ES6), React, Node.js, Express, Sinatra, PostgreSQL, M
 
 |                  |                       |                        |
 | :---------------: | :-------------------: | :--------------------: | 
-| <a href="https://github.com/GarethWoodman/acebook-HoneyBunnies" target="blank"><img width="200" src="https://ibb.co/D7JkzVk" alt="reengage" border="0"/></a> |
+| <a href="https://github.com/GarethWoodman/acebook-HoneyBunnies" target="blank"><img width="200" src="https://ibb.co/D7JkzVk.png" alt="reengage" border="0"/></a> |
 </div>
