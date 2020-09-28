@@ -23,7 +23,7 @@ I am now on the market for a Full-Stack Developer role as I’m comfortable in b
 
 **Background**
 
-After 5+ years of working in Tech Support I have a valuable understanding of how users interact with a range of software, from off-the-shelf to legacy applciations. This has been a great base to develop my technical and emotional skills. I was required to identify problems and provide solutions to a magnitude of users quickly and efficiently to keep the business going. Naturally this has led me to the development side of IT, I want to be part of the next big application!
+After 5+ years of working in Tech Support I have a valuable understanding of how users interact with a range of software, from off-the-shelf to legacy applications. This has been a great base to develop my technical and emotional skills. I was required to identify problems and provide solutions to a magnitude of users quickly and efficiently to keep the business going. Naturally this has led me to the development side of IT, I want to be part of the next big application!
 
 **Objective**
 
