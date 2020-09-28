@@ -31,7 +31,7 @@ I'm looking to work for an organisation where I can make a meaningful contributi
 
 **Key Technologies**
 
-Ruby-On-Rails, JavaScript (ES6), React, Node.js, Express, Sinatra, PostgreSQL, MongoDB, Git workflow, SASS, CSS, HTML.
+Ruby-On-Rails, JavaScript (ES6), Swift, React, Node.js, Express, Sinatra, PostgreSQL, MongoDB, Git workflow, SASS, CSS, HTML.
 
 ## Projects
 
