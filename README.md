@@ -7,8 +7,6 @@
 
 <div align="center">
 
-[Projects ](#projects) |
-
 </div>
 
 **Introduction**
