@@ -11,7 +11,7 @@
 
 **Introduction**
 
-I am a motivated and outgoing individual. I made the difficult yet important decision to quit my previous job in a pursuit for a career in Development. I joined Makers in March 2020 and graduated in June. For the past several months I have polished and developed a range of personal and group projects. 
+I am a motivated and outgoing individual. I made the difficult yet important decision to quit my previous job in pursuit for a career in Development. I joined Makers in March 2020 and graduated in June. For the past several months I have polished and developed a range of personal and group projects. 
 
 I am now on the market for a Full-Stack Developer role as I’m comfortable in both front and back-end technologies.
 
@@ -45,4 +45,11 @@ Ruby-On-Rails, JavaScript (ES6), Swift, React, Node.js, Express, Sinatra, Postgr
 
 </div>
 
-<div align="center">
+## Technical Skills:
+- Rails, Ruby, JavaScript, PostgreSQL, MongoDB, React - I have developed a variety of Full-Stack Applications using these technologies. I'm comfortable working in groups and independently
+- Test Driven Development - One of the XP (Extreme Programming) values. We were encouraged to test drive our applications, this involved unit, feature & integration testing to ensure our applications were functioning as *expected* to avoid wasting time back-tracking and fixing petty errors.
+- Behavioural Driven Development - Converting ambiguous user requirements into broken down and simplified 'User Stories' which are then translated into code.
+- SOLID Principles - Adhering to these priciples makes it more likely for my code to be more clean and efficient
+
+
+
