@@ -53,5 +53,5 @@ Ruby-On-Rails, JavaScript (ES6), Swift, React, Node.js, Express, Sinatra, Postgr
 
 ## Soft Skills:
 - Communication - As required in Tech Support I spoke with a plethora of users from vritually all departments. To fix their problems I had to establish rapport, identify the problem, and walk them through possible solutions. This transferred into my time at Makers, working in groups we were required to communicate effictively to build applications. 
-
+- Adaptability - During my time at Makers I was encouraged to get out of my comfort zone. Pair programming with someone different everday to get a feel for how other people approach and solve problems. Regular stand-ups to present features we worked on and why we made them that way. Adapting to the current COVID situation through video conferencing.
 
