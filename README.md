@@ -49,7 +49,7 @@ Ruby-On-Rails, JavaScript (ES6), Swift, React, Node.js, Express, Sinatra, Postgr
 - Rails, Ruby, JavaScript, PostgreSQL, MongoDB, React - I have developed a variety of Full-Stack Applications using these technologies. I'm comfortable working in groups and independently
 - Test Driven Development - One of the XP (Extreme Programming) values. We were encouraged to test drive our applications, this involved unit, feature & integration testing to ensure our applications were functioning as *expected* to avoid wasting time back-tracking and fixing petty errors.
 - Behavioural Driven Development - Converting ambiguous user requirements into broken down and simplified 'User Stories' which are then translated into code.
-- SOLID Principles - Adhering to these principles makes it more likely for my code to be more clean and efficient
+- SOLID Principles - Adhering to these principles makes my code more clean and efficent
 
 
 
