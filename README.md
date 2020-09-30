@@ -51,5 +51,7 @@ Ruby-On-Rails, JavaScript (ES6), Swift, React, Node.js, Express, Sinatra, Postgr
 - Behavioural Driven Development - Converting ambiguous user requirements into broken down and simplified 'User Stories' which are then translated into code.
 - SOLID Principles - Adhering to these principles makes my code more clean and efficent
 
+## Soft Skills:
+- Communication - As required in Tech Support I spoke with a plethora of users from vritually all departments. To fix their problems I had to establish rapport, identify the problem, and walk them through possible solutions. This transferred into my time at Makers, working in groups we were required to communicate effictively to build applications. 
 
 
