@@ -58,3 +58,5 @@ Ruby-On-Rails, JavaScript (ES6), Swift, React, Node.js, Express, Sinatra, Postgr
 
 ## What I'm currently working on
 - Swipe And Shop - A shopping application which uses the MERN Stack (MongoDB, Express, React, NodeJS). The aim is to allow users to buy and sell items using an easy to use interface. 
+- Code Reviews - As part of Makers Alumni I practice regular code reviews to ensure I am taclking problems in the most efficent way
+- Tech Tests - Through a range of resources I practice my coding skills regularly, keeping in-line with SOLID principles and up to date with the latest technologies
