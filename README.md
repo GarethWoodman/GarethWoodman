@@ -55,3 +55,6 @@ Ruby-On-Rails, JavaScript (ES6), Swift, React, Node.js, Express, Sinatra, Postgr
 - Communication - As required in Tech Support I spoke with a plethora of users from vritually all departments. To fix their problems I had to establish rapport, identify the problem, and walk them through possible solutions. This transferred into my time at Makers, working in groups we were required to communicate effictively to build applications. 
 - Adaptability - During my time at Makers I was encouraged to get out of my comfort zone. Pair programming with someone different everyday to get a feel for how other people approach and solve problems. Regular stand-ups to present features we worked on and why we made them that way. Adapting to the current COVID situation through video conferencing.
 - Time Management - I manage my time appropriately both in my proffesional and personal life. Having a routine is vital to success. I reamin firm and fair to my commitments. I make sure to not take on more than is required. 
+
+## What I'm currently working on
+- Swipe And Shop - A shopping application which uses the MERN Stack (MongoDB, Express, React, NodeJS). The aim is to allow users to buy and sell items using an easy to use interface. 
