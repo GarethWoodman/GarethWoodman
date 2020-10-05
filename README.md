@@ -62,7 +62,28 @@ Ruby-On-Rails, JavaScript (ES6), Swift, React, Node.js, Express, Sinatra, Postgr
 - Tech Tests - Through a range of resources I practice my coding skills regularly, keeping in-line with SOLID principles and up to date with the latest technologies
 
 ## Experience
-### John Brown Media - Support Analyst
+### John Brown Media - IT Support Analyst | October 2017 - March 2020
 <em>John Brown Media; one of the world's largest content marketing agencies. Creates multichannel content for various brands, with services including social media, film and audio, mobile.</em>
 
 Providing technical support & liaising with the Dentsu Aegis Network to support users across multiple branches around the world. Helping set up colour profiles and work stations to maximize practicality and creativity for users working on publications & other media.
+
+### LGT Vestra - IT Support Engineer | March 2017 - August 2017
+<em>LGT Vestra is a UK-based wealth management firm and is part of the private banking group LGT, owned by the Princely Family of Liechtenstein.</em>
+
+Worked in a tight-knit support team, aided in the project of updating 100's of computing and telephone systems. 
+
+### TechAway - IT Support Officer | July 2016 - January 2017
+<em>Based in Melbourne, Australia, TechAway is all about providing professional, reliable IT services to small/medium sized 
+businesses
+
+Providing technical support to over 300 users in a corporate environment. Liaised with the System, network & Security Administrators to ensure tickets were dealt with swiftly and effectively.
+
+### Undeground Toys - Systems Administrator | November 2013 - January 2016
+<em>Underground toys is a leading global creator, manufacture and distributor of licenced products with offices in the UK, US and Hong Kong
+
+To provide a working IT Infrastructure across all branches in UK, US and Hong Kong. Provided weekly reports to the IT Manager who would keep me up to date with technical faults and improvements to teh infrastructure.
+
+
+  
+  
+
