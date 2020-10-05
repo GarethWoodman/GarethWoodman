@@ -63,8 +63,6 @@ Ruby-On-Rails, JavaScript (ES6), Swift, React, Node.js, Express, Sinatra, Postgr
 
 ## Experience
 ### John Brown Media - Support Analyst
-Summary: 
-John Brown Media; one of the world's largest content marketing agencies. Creates multichannel content for various brands, with services including social media, film and audio, mobile. 
+<em>John Brown Media; one of the world's largest content marketing agencies. Creates multichannel content for various brands, with services including social media, film and audio, mobile.</em>
 
-Role Profile: 
 Providing technical support & liaising with the Dentsu Aegis Network to support users across multiple branches around the world. Helping set up colour profiles and work stations to maximize practicality and creativity for users working on publications & other media.
