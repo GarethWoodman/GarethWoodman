@@ -79,7 +79,7 @@ businesses
 Providing technical support to over 300 users in a corporate environment. Liaised with the System, network & Security Administrators to ensure tickets were dealt with swiftly and effectively.
 
 ### Undeground Toys - Systems Administrator | November 2013 - January 2016
-<em>Underground toys is a leading global creator, manufacture and distributor of licenced products with offices in the UK, US and Hong Kong
+<em>Underground toys is a leading global creator, manufacture and distributor of licenced products with offices in the UK, US and Hong Kong</em>
 
 To provide a working IT Infrastructure across all branches in UK, US and Hong Kong. Provided weekly reports to the IT Manager who would keep me up to date with technical faults and improvements to teh infrastructure.
 
