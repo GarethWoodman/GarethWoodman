@@ -60,3 +60,11 @@ Ruby-On-Rails, JavaScript (ES6), Swift, React, Node.js, Express, Sinatra, Postgr
 - Swipe And Shop - A shopping application which uses the MERN Stack (MongoDB, Express, React, NodeJS). The aim is to allow users to buy and sell items using an easy to use interface. 
 - Code Reviews - As part of Makers Alumni I practice regular code reviews to ensure I am tackling problems in the most efficent way
 - Tech Tests - Through a range of resources I practice my coding skills regularly, keeping in-line with SOLID principles and up to date with the latest technologies
+
+## Experience
+### John Brown Media - Support Analyst
+Summary: 
+John Brown Media; one of the world's largest content marketing agencies. Creates multichannel content for various brands, with services including social media, film and audio, mobile. 
+
+Role Profile: 
+Providing technical support & liaising with the Dentsu Aegis Network to support users across multiple branches around the world. Helping set up colour profiles and work stations to maximize practicality and creativity for users working on publications & other media.
