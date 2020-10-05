@@ -74,7 +74,7 @@ Worked in a tight-knit support team, aided in the project of updating 100's of c
 
 ### TechAway - IT Support Officer | July 2016 - January 2017
 <em>Based in Melbourne, Australia, TechAway is all about providing professional, reliable IT services to small/medium sized 
-businesses
+businesses.</em>
 
 Providing technical support to over 300 users in a corporate environment. Liaised with the System, network & Security Administrators to ensure tickets were dealt with swiftly and effectively.
 
