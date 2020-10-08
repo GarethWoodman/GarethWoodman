@@ -5,6 +5,12 @@
 <a href="https://www.linkedin.com/in/gareth-woodman-4b670985/" target="_blank">
 <img src="https://i.ibb.co/Vt9MR4t/linkedincircle.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
+[Projects ](#projects) |
+[Technical Skills ](#technical-skills) |
+[Soft SKills ](#soft-skills) |
+[Currently working on ](#What-I'm-currently-working-on) |
+[Experience ](#experience)
+
 <div align="center">
 
 </div>
