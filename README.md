@@ -10,7 +10,7 @@
 [Projects ](#projects) |
 [Technical Skills ](#technical-skills) |
 [Soft SKills ](#soft-skills) |
-[Currently I'm currently working on ](#what-i'm-currently-working-on) |
+[Currently working on ](#what-im-currently-working-on) |
 [Experience ](#experience)
 
 </div>
