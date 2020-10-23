@@ -55,18 +55,18 @@ I'm looking to work for an organisation where I can make a meaningful contributi
 
 </div>
 
-## Technical Skills:
+## Technical Skills 💻:
 - Rails, Ruby, JavaScript, PostgreSQL, MongoDB, React - I have developed a variety of Full-Stack Applications using these technologies. I'm comfortable working in groups and independently
 - Test Driven Development - One of the XP (Extreme Programming) values. We were encouraged to test drive our applications, this involved unit, feature & integration testing to ensure our applications were functioning as *expected* to avoid wasting time back-tracking and fixing petty errors.
 - Behavioural Driven Development - Converting ambiguous user requirements into broken down and simplified 'User Stories' which are then translated into code.
 - SOLID Principles - Adhering to these principles makes my code more clean and efficent
 
-## Soft Skills:
+## Soft Skills 💬:
 - Communication - As required in Tech Support I spoke with a plethora of users from virtually all departments. To fix their problems I had to establish rapport, identify the problem, and walk them through possible solutions. This transferred into my time at Makers, working in groups we were required to communicate effectively to build applications. 
 - Adaptability - During my time at Makers I was encouraged to get out of my comfort zone. Pair programming with someone different every day to get a feel for how other people approach and solve problems. Regular stand-ups to present features we worked on and why we made them that way. Adapting to the current COVID situation through video conferencing.
 - Time Management - I manage my time appropriately both in my professional and personal life. Having a routine is vital to success. I remain firm and fair to my commitments. I make sure to not take on more than is required. 
 
-## What I'm currently working on
+## What I'm currently working on:
 - Swipe And Shop - A shopping application which uses the MERN Stack (MongoDB, Express, React, NodeJS). The aim is to allow users to buy and sell items using an easy to use interface. 
 - Code Reviews - As part of Makers Alumni I practice regular code reviews to ensure I am tackling problems in the most efficient way
 - Tech Tests - Through a range of resources I practice my coding skills regularly, keeping in-line with SOLID principles and up to date with the latest technologies
