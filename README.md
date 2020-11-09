@@ -68,6 +68,7 @@ I'm looking to work for an organisation where I can make a meaningful contributi
 
 ## What I'm currently working on:
 - Swipe And Shop - A shopping application which uses the MERN Stack (MongoDB, Express, React, NodeJS). The aim is to allow users to buy and sell items using an easy to use interface. 
+- Night Spot - A social application using Rails. Allowing users to book and host events with people nearby
 - Code Reviews - As part of Makers Alumni I practice regular code reviews to ensure I am tackling problems in the most efficient way
 - Tech Tests - Through a range of resources I practice my coding skills regularly, keeping in-line with SOLID principles and up to date with the latest technologies
 
