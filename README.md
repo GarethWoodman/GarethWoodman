@@ -1,4 +1,5 @@
 <div align="center"><img src="https://i.ibb.co/zRcRg9T/gw-logo.png" alt="Logo" border="0"/></div>
+_________________________________________________________________________________________________
 <p align="center">
 <a href="https://medium.com/@garethwoodman" target="_blank">
 <img src="https://i.ibb.co/YBC9r8c/medium.png" alt="medium" hspace="50" height="42" width="42"></a>
