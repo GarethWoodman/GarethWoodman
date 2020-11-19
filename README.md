@@ -4,6 +4,7 @@
 <p align="center">
 <a href="https://medium.com/@garethwoodman" target="_blank">
 <img src="https://i.ibb.co/YBC9r8c/medium.png" alt="medium" hspace="50" height="42" width="42"></a>
+|
 <a href="https://www.linkedin.com/in/gareth-woodman-4b670985/" target="_blank">
 <img src="https://i.ibb.co/Vt9MR4t/linkedincircle.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
