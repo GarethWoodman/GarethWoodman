@@ -5,7 +5,7 @@ This repository showcases selected personal projects demonstrating full-stack de
 ## 🚀 Featured Projects
 
 ### Easy Translate Tool
-<img width="1072" height="721" alt="Screenshot 2025-09-13 at 17 20 39" src="https://github.com/user-attachments/assets/80ff24ad-6ffc-4bdc-be01-07a0659398e9" />
+<img width="1021" height="841" alt="Screenshot 2025-09-13 at 17 33 16" src="https://github.com/user-attachments/assets/c701e1e0-d4ad-4297-94a8-790e6928011b" />
 
 **Live Demo:** [https://www.easytranslatetool.com](https://www.easytranslatetool.com)
 
