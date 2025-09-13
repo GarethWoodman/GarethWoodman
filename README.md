@@ -5,6 +5,8 @@ This repository showcases selected personal projects demonstrating full-stack de
 ## 🚀 Featured Projects
 
 ### Easy Translate Tool
+<img width="1072" height="721" alt="Screenshot 2025-09-13 at 17 20 39" src="https://github.com/user-attachments/assets/80ff24ad-6ffc-4bdc-be01-07a0659398e9" />
+
 **Live Demo:** [https://www.easytranslatetool.com](https://www.easytranslatetool.com)
 
 A comprehensive translation SaaS platform built with Next.js 14, TypeScript, and modern web technologies. Integrates Azure AI Translation Services, Supabase authentication, Paddle billing, and deployed on Vercel with optimized performance.
@@ -17,6 +19,8 @@ A comprehensive translation SaaS platform built with Next.js 14, TypeScript, and
 - 85% reduction in edge requests through strategic optimization
 
 ### Mars Rover Challenge
+<img width="1350" height="849" alt="Screenshot 2025-09-13 at 17 32 47" src="https://github.com/user-attachments/assets/8bd1bac3-c3f1-4732-b907-8c6eb48248da" />
+
 **Live Demo:** [https://mars-rover-gareth-woodman.netlify.app/](https://mars-rover-gareth-woodman.netlify.app/)
 
 Interactive solution to the classic Mars Rover coding challenge, demonstrating algorithmic thinking and clean UI implementation.
