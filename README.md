@@ -1,4 +1,4 @@
-# Gareth Woodman - Side Projects
+# Side Projects
 
 This repository showcases selected personal projects demonstrating full-stack development skills and entrepreneurial initiative. All repositories are private for intellectual property protection.
 
