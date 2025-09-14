@@ -18,10 +18,10 @@ A comprehensive translation SaaS platform built with Next.js 14, TypeScript, and
 - Responsive design with mobile-first approach
 - 85% reduction in edge requests through strategic optimization
 
-**Dentie**
+### Dentie
 <img width="1023" height="843" alt="Screenshot 2025-09-14 at 19 15 10" src="https://github.com/user-attachments/assets/7d543bea-aa0a-41b3-a6ca-59a402bb91fb" />
 
-**Live Demo:** https://dentie.co.uk
+**Live Demo:** [https://www.dentie..co.uk](https://www.dentie.co.uk)
 
 A lightweight starter SaaS application built with Next.js 14, TypeScript, Supabase, and Tailwind CSS. The project was originally inspired by dental workflows and allowed me to explore how to structure a multi-tenant app with authentication, database integration, and simple UI components. Users can create templates with single- and multi-select fields to standardize input for notes or records.
 
