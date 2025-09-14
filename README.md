@@ -1,6 +1,8 @@
 # Side Projects
 
-This repository showcases selected personal projects demonstrating full-stack development skills and entrepreneurial initiative. All repositories are private for intellectual property protection.
+This repository highlights a few of my personal projects that show my full-stack skills and self-driven approach. The code itself is private to protect intellectual property, but I’m always happy to share live demos and walk through how it all works! Most of my day-to-day commits are split across private repositories and both work and personal GitHub accounts, so my public contribution graph doesn’t fully reflect my activity.
+
+Please feel free to contact me via email: gareth.woodman92@gmail.com or by phone: 07919 912139
 
 ## 🚀 Featured Projects
 
