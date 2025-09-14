@@ -2,7 +2,10 @@
 
 This repository highlights a few of my personal projects that show my full-stack skills and self-driven approach. The code itself is private to protect intellectual property, but I’m always happy to share live demos and walk through how it all works! Most of my day-to-day commits are split across private repositories and both work and personal GitHub accounts, so my public contribution graph doesn’t fully reflect my activity.
 
-Please feel free to contact me via email: gareth.woodman92@gmail.com or by phone: 07919 912139
+Please feel free to contact me via
+- LinkedIn: https://www.linkedin.com/in/gareth-woodman-4b670985/
+- email: gareth.woodman92@gmail.com
+- phone: 07919 912139
 
 ## 🚀 Featured Projects
 
@@ -39,11 +42,3 @@ A lightweight starter SaaS application built with Next.js 14, TypeScript, Supaba
 **Live Demo:** [https://mars-rover-gareth-woodman.netlify.app/](https://mars-rover-gareth-woodman.netlify.app/)
 
 Interactive solution to the classic Mars Rover coding challenge, demonstrating algorithmic thinking and clean UI implementation.
-
----
-
-## 📝 Note on Repository Access
-
-All project repositories are maintained as private repositories to protect intellectual property and business logic. Live demonstrations are provided above for evaluation purposes.
-
-For technical discussions or code reviews, please contact me directly.
