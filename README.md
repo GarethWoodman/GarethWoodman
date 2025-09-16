@@ -27,10 +27,10 @@ A comprehensive translation SaaS platform built with Next.js 14, TypeScript, and
 
 **Live Demo:** [https://www.dentie..co.uk](https://www.dentie.co.uk)
 
-A lightweight starter SaaS application built with Next.js 14, TypeScript, DynamoDB, Cognito and Tailwind CSS. The idea was inspired by my partner, who is a dentist, and her day-to-day workflows. Building it gave me the opportunity to explore how to structure a multi-tenant app with authentication, database integration, and simple UI components. Users can create templates with single- and multi-select fields to standardize input for notes or records.
+A lightweight starter SaaS application built with Next.js 14, TypeScript, DynamoDB, Cognito and Tailwind CSS. The idea was inspired by my partner, who is a dentist, and her day-to-day workflows. Building it gave me the opportunity to explore how to structure a web app with authentication, database integration, and simple UI components. Users can create templates with single, multi-select and custom fields to standardize input for notes or records.
 
 **Key Features:**
-- Basic template creation with single- and multi-select inputs
+- Basic template creation with single and multi-select inputs
 - Authentication and database integration via AWS DynamoDB and Cognito
 - Simple responsive UI with Tailwind CSS
 - Lightweight foundation for experimenting with SaaS patterns
