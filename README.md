@@ -5,7 +5,7 @@ This repository highlights a few of my personal projects that show my full-stack
 Please feel free to contact me via:
 - LinkedIn: https://www.linkedin.com/in/gareth-woodman-4b670985/
 - Email: gareth.woodman92@gmail.com
-- Phone: 07919 912139
+- Phone: 0424 665 152
 
 ## 🚀 Featured Projects
 
