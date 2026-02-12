@@ -35,6 +35,20 @@ A lightweight starter SaaS application built with Next.js 14, TypeScript, Dynamo
 - Simple responsive UI with Tailwind CSS
 - Lightweight foundation for experimenting with SaaS patterns
 
+### Global Notes
+<img width="947" height="845" alt="Screenshot 2026-02-12 at 10 31 33 am" src="https://github.com/user-attachments/assets/12a696a4-fa44-4f2d-a542-53bc3eedb81e" />
+
+**Live Demo:** [https://global-notes.vercel.app](https://global-notes.vercel.app)
+
+A rapid “how far can I push this in a couple of hours?” experiment using OpenAI Codex (agentic coding) to prototype an interactive 3D globe note-taking concept. The result is a lightweight, front-end-only app where you can spin/zoom the globe, click a hex-tiled region, and attach color-coded notes that persist locally in the browser.
+
+**Key Features:**
+- Real-time 3D globe rendering and smooth camera controls (drag to spin, scroll to zoom)
+- Click-to-create/edit notes per globe cell with live color preview
+- Persistent notes stored locally (no backend required)
+- Searchable notes list with quick navigation to saved locations
+- Clean, minimal UI overlays designed for both desktop and mobile layouts
+
 ### Mars Rover Challenge
 <img width="1350" height="849" alt="Screenshot 2025-09-13 at 17 32 47" src="https://github.com/user-attachments/assets/8bd1bac3-c3f1-4732-b907-8c6eb48248da" />
 
