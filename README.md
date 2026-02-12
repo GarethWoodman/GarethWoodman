@@ -38,7 +38,7 @@ A lightweight starter SaaS application built with Next.js 14, TypeScript, Dynamo
 ### Global Notes
 <img width="947" height="845" alt="Screenshot 2026-02-12 at 10 31 33 am" src="https://github.com/user-attachments/assets/12a696a4-fa44-4f2d-a542-53bc3eedb81e" />
 
-**Live Demo:** [https://global-notes.vercel.app](https://global-notes.vercel.app)
+**Live Demo:** [https://global-notes-cyan.vercel.app](https://global-notes-cyan.vercel.app)
 
 A rapid “how far can I push this in a couple of hours?” experiment using OpenAI Codex (agentic coding) to prototype an interactive 3D globe note-taking concept. The result is a lightweight, front-end-only app where you can spin/zoom the globe, click a hex-tiled region, and attach color-coded notes that persist locally in the browser.
 
