@@ -9,6 +9,20 @@ Please feel free to contact me via:
 
 ## 🚀 Featured Projects
 
+### Chacootie (WIP)
+<p align="center">
+  <img width="48%" alt="Chacootie Diary Screen" src="https://github.com/user-attachments/assets/677c8a4e-1742-40bd-8895-6935ed8ab361" />
+  <img width="48%" alt="Chacootie Search Screen" src="https://github.com/user-attachments/assets/7aedd23d-f84d-4f57-8cd0-9e6abc6a5f56" />
+</p>
+
+A mobile-first food discovery and journaling app built with React Native, Expo, TypeScript, and a custom API layer. Combines recipe search, pantry-based inspiration, and a personal meal diary so users can discover dishes, save ideas, and log both home-cooked meals and restaurant experiences in a clean iOS-style interface.
+
+**Key Features:**
+- Recipe search powered by Spoonacular
+- Personal food diary for home meals and restaurant visits
+- Image-first mobile UI designed for quick browsing
+- Pantry and recipe discovery flows
+
 ### Easy Translate Tool
 <img width="1021" height="841" alt="Screenshot 2025-09-13 at 17 33 16" src="https://github.com/user-attachments/assets/c701e1e0-d4ad-4297-94a8-790e6928011b" />
 
