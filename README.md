@@ -11,9 +11,10 @@ Please feel free to contact me via:
 
 ### Chacootie (WIP)
 <p align="center">
-  <img width="32%" alt="chacootie_1" src="https://github.com/user-attachments/assets/ae7ae04e-e090-46c0-a56f-753eb5a5713a" />
-  <img width="32%" alt="chacootie_3" src="https://github.com/user-attachments/assets/47ff9545-3b79-436e-9ffd-3013346acba7" />
-  <img width="32%" alt="chacootie_2" src="https://github.com/user-attachments/assets/4989590e-7fcc-487c-a8f7-9c437069ba40" />
+  <img width="24%" alt="Whats in your pantry" src="https://github.com/user-attachments/assets/54b5c8e1-6d16-428e-b6ab-dd3351035f5c" />
+  <img width="24%" alt="Find Recipes" src="https://github.com/user-attachments/assets/17bdec08-7425-4a6e-a138-8009204eb36b" />
+  <img width="24%" alt="Recipe Detail" src="https://github.com/user-attachments/assets/0ecedd80-2979-468d-9c64-6ccb7e3347c8" />
+  <img width="24%" alt="profile" src="https://github.com/user-attachments/assets/96f6e12a-21d7-4812-b23a-70808761db80" />
 </p>
 
 A mobile-first food discovery and journaling app built with React Native, Expo, TypeScript, and a custom API layer. Combines recipe search, pantry-based inspiration, and a personal meal diary so users can discover dishes, save ideas, and log both home-cooked meals and restaurant experiences in a clean iOS-style interface.
