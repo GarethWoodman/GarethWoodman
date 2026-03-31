@@ -19,6 +19,8 @@ Please feel free to contact me via:
 
 A mobile-first food discovery and journaling app built with React Native, Expo, TypeScript, and a custom API layer. Combines recipe search, pantry-based inspiration, and a personal meal diary so users can discover dishes, save ideas, and log both home-cooked meals and restaurant experiences in a clean iOS-style interface.
 
+I’m also using this project to deepen my understanding of AI and RAG-based systems, and to explore how they can be leveraged to deliver a more personalized user experience. Rather than relying solely on static API results, I’m experimenting with ways to tailor recipe recommendations and help users make smarter use of the ingredients already available in their pantry.
+
 **Key Features:**
 - Recipe search powered by Spoonacular
 - Personal food diary for home meals and restaurant visits
